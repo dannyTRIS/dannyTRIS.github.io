@@ -189,7 +189,7 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
-              "color": "#7ae6ff",
+              "color": "#efefef",
               "text-align": "left"
             }
           },
